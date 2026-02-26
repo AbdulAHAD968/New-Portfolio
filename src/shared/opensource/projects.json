@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOOMV4TQ",
+      "name": "QUENCH-THIRST",
+      "createdAt": "2025-03-21T10:20:44Z",
+      "url": "https://github.com/AbdulAHAD968/QUENCH-THIRST",
+      "description": "Developed a full-fledged water delivery management platform with separate interfaces for users, employees, and admins. Mimicking Real-time order tracking, user authentication, and dashboard analytics.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDON5t_iw",
+      "name": "Masnoon-Dua",
+      "createdAt": "2025-02-14T19:53:54Z",
+      "url": "https://github.com/AbdulAHAD968/Masnoon-Dua",
+      "description": "A simple web application that provides users with a collection of Masnoon Duas (supplications) for daily use. This project aims to make it easy for anyone to access these spiritual prayers conveniently.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOOh8pEg",
+      "name": "AI-SOC-PROTO",
+      "createdAt": "2025-04-29T20:18:08Z",
+      "url": "https://github.com/AbdulAHAD968/AI-SOC-PROTO",
+      "description": "Event based threat management tool with autonomus AI assistant (For now just prototype). With integrated ABUSEIP API for bad IP detection and blockage. Feed the FireWall logs and get insights.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPqyYCA",
+      "name": "Mini-Kanban",
+      "createdAt": "2025-09-06T05:45:37Z",
+      "url": "https://github.com/AbdulAHAD968/Mini-Kanban",
+      "description": "Mini-Kanban is a lightweight, visually appealing Kanban board application inspired by Trello, designed for efficient project management. Built with a modern tech stack, it features a responsive React frontend with Material-UI components and a Node.js/Express backend, deployed serverlessly on Vercel.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPtgJYw",
+      "name": "AlgoRemit",
+      "createdAt": "2025-09-10T17:51:16Z",
+      "url": "https://github.com/AbdulAHAD968/AlgoRemit",
+      "description": "Algoremit is a blockchain-powered remittance platform that uses USDCa (USD Coin on Algorand) to facilitate low-cost, instant, and stable money transfers.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOPvDalQ",
+      "name": "Typing-Speed-Tracker",
+      "createdAt": "2025-09-13T06:15:38Z",
+      "url": "https://github.com/AbdulAHAD968/Typing-Speed-Tracker",
+      "description": "Typing Speed Tracker is a web application designed to help users improve their typing speed and accuracy through an interactive typing test interface. It offers real-time performance tracking, detailed statistics, and user authentication for a personalized experience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "CUSTOM_SAIF",
+      "name": "SAIF - Digital Awareness",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://saif.cybernet.ae",
+      "description": "A next-gen digital awareness platform with robust RBAC, bulk user management, and certificate verification. Built for scale and secure participation tracking.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next.js",
+          "iconifyClass": "logos-nextjs"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "CUSTOM_JOBFIT",
+      "name": "AI Job-Fit ATS",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://job-fit.net",
+      "description": "AI-driven system that uses LLMs and NLP to analyze resumes and job descriptions, providing automated tailoring and ATS keyword optimization.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "LLM",
+          "iconifyClass": "logos-openai"
+        }
+      ]
+    },
+    {
+      "id": "CUSTOM_REMAX",
+      "name": "RE/MAX Hub Dubai",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://remaxhub.ae",
+      "description": "High-performance real-estate platform with integrated admin systems for lead routing and property management in the Dubai market.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MERN Stack",
+          "iconifyClass": "logos-mongodb"
+        }
+      ]
+    }
+  ]
+}
