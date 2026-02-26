@@ -1,7 +1,7 @@
 {
   "name": "AbdulAHAD968",
   "version": "0.1.0",
-  "homepage": "https://AbdulAHAD.github.io",
+  "homepage": ".",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
